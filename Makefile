@@ -1,4 +1,4 @@
-MODULES := engine.o
+MODULES := engine.o stepper.o
 
 #guest architecture
 ARCH := arm
